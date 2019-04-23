@@ -278,7 +278,7 @@ handleClick = () => {
 
 ...
 ```
-
+i
 ## State Changes vs. Prop Changes
 
 ![Not the same thing!](http://4.bp.blogspot.com/-YpCHzw3WdTo/UzNBI3BzYKI/AAAAAAAAJoY/S34pUkXKhUU/s1600/aaa.png)
